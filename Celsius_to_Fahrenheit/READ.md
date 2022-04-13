@@ -1,4 +1,4 @@
 <h1>Libraries required<h2>
-  <ul>
-    <l>TensorFlow</l>
-  </ul>
+  1. TensorFlow
+  2. Numpy
+  3. Matplotlib
